@@ -1,4 +1,4 @@
-############ Numerical-Methods-Using-C
+# Numerical-Methods-Using-C
 1. C Program to find the roots of an equation of the form f(x) =0 using Bisection method.
 2. C Program to find the roots of an equation of the form f(x)=0 using  Newton Raphson’s method.
 3. C Program to find the roots of an equation of the form f(x)=0 using Regula Falsi method.
